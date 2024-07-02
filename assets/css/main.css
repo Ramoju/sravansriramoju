@@ -72,10 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
-.symbol {
+.profilepic {
     border-radius: 50%; 
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
 }
 
 /* Basic */
